@@ -1,0 +1,17 @@
+package controlStatement;
+
+public class NestedIfElseStatemt {
+// Even or Old NUmber 
+	public static void main(String[] args) {
+		 int num=10;
+		 if(num%2==0) 
+		 {
+			 System.out.println("Number is even");
+		 }
+		 else
+		 {
+			 System.out.println("Number is old");
+		 }
+	}
+
+}
